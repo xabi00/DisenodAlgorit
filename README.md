@@ -1,1 +1,1 @@
-# DisenodAlgorit
+# Diseno De Algoritmos
