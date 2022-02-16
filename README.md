@@ -1,1 +1,1 @@
-# Diseno De Algoritmos
+# Diseño De Algoritmos
